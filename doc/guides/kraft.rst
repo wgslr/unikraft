@@ -50,7 +50,7 @@ by Unikraft's build system to switch on or off features depending on your
 application's use case.
 
 The unikernel application must now be configured against the Unikraft build
-system so that you and it can resolve any additional requirements: ::
+system so that it can resolve any additional requirements: ::
 
   kraft configure ./my-first-unikernel
 
