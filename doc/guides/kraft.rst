@@ -335,7 +335,7 @@ are doing local development or wish to work with private repositories:
 
 
 The ``kraft`` tool works with these remote and local Git repositories in order
-to handle version control.  However, wen using the ``kraft`` tool itself in
+to handle version control.  However, when using the ``kraft`` tool itself in
 during the ``configure`` and ``build`` steps, it is handy to stop it it from
 automatically running ``git checkout`` on these repositories.  This is
 particularly useful when the source tree of the Unikraft core or any other
